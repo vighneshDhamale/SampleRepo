@@ -17,6 +17,12 @@ public class Datatype {
 		long l;
 		l=75;
 		System.out.println(l);
+		
+		int a;
+		a=88;
+		System.out.println(a);
+	
+	
 	}
 
 }
